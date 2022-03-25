@@ -1,7 +1,5 @@
 # weather-dashboard
 
-## PROJECT IN PROGRESS
-
 LINK: [click here](https://akeneagle.github.io/weather-dashboard/)
 
 ## DESCRIPTION
@@ -10,4 +8,4 @@ This is a weather website. You can lookup for the weather conditions of a specif
 
 ## PREVIEW
 
-![preview](./assets/images/screenshots/preview.jpg)
+![preview](./assets/images/screenshots/preview.png)
